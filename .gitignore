@@ -1,0 +1,11 @@
+build/
+.gradle/
+local.properties
+*.apk
+.idea/
+*.iml
+.cxx/
+.kotlin/
+
+# --- owner identity config (glasses ownership secret; never commit) ---
+*glasses*.json
