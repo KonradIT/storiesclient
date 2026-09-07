@@ -186,6 +186,17 @@ Two possible ways:
 - Frida hook (how I did it)
 - Meta AI smali patch + adb logging
 
+A gift:
+
+`264.0.0.18.167` code `464402080`
+
+[APKMirror](https://www.apkmirror.com/apk/facebook-2/facebook-view/meta-ai-vibes-ai-glasses-264-0-0-18-167-release/meta-ai-vibes-ai-glasses-264-0-0-18-167-3-android-apk-download/)
+
+Hook:
+
+- `X.C67273Za->ADX([B)` the `[B` is the privkey
+- `X.C25043CsG->AEk([B)` holds the ticket
+
 2) RayBan Meta Gen 1 / Gen 2 (Supernova) support:
 
 In progres... been at it for ~7 months now. RE'ing the RayBan stories was a byproduct of that which turned out to be easier.
